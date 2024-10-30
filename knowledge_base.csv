@@ -1,0 +1,73 @@
+questions,answer
+Hello,hey there!!
+I want to know about you?,I am here to help you learn Machine Learning
+heyy,Hii...How can i help you??
+dhfg,sorry i dont know the answer
+Who are you?,I am your personal ChatBot..
+What is deep learning?,Deep Learning is a subset of Machine Learning that uses neural networks with many layers (deep networks) to analyze various types of data.
+What is the difference between AI and Machine Learning?,Artificial Intelligence (AI) is the broader concept of machines being able to carry out tasks in a way that we would consider 'smart'
+How do I get started with Machine Learning?,You can start by learning Python
+hii,hello..
+you idiot..,I'm Sorry If i caused you any trouble
+ok,Thank you!! Have a good time..
+woow,That's Amazing.. Right..
+woow thats great,Yup!! Thank you..!!!
+applications of ml,"finance, marketing etc.,"
+haaa yess,sounds great...!!!
+I am happy ,I am even more happy for you..!!
+what can u do?,i can answer the questions you ask...
+questions,answer
+What is Machine Learning?,Machine Learning is a field of artificial intelligence that uses statistical techniques to enable computers to improve at tasks with experience.
+Can you explain supervised learning?,Supervised Learning is a type of Machine Learning where the model is trained on labeled data.
+What is unsupervised learning?,Unsupervised Learning involves training a model on data without labeled responses
+What are neural networks?,Neural Networks are computational models inspired by the human brain
+What is overfitting?,Overfitting occurs when a model learns the training data too well
+What is a confusion matrix?,A confusion matrix is a performance measurement tool for classification models that summarizes the correct and incorrect predictions.
+How do I evaluate a machine learning model?,You can evaluate a model using metrics like accuracy
+What are some common algorithms in machine learning?,Common algorithms include Linear Regression
+What is feature engineering?,Feature Engineering is the process of using domain knowledge to select
+How can I improve my model's performance?,You can improve performance by tuning hyperparameters
+What is natural language processing?,"Natural Language Processing (NLP) is a field at the intersection of computer science and linguistics, focused on the interaction between computers and human language."
+What is Machine Learning?,Machine Learning is a field of artificial intelligence that uses statistical techniques to enable computers to improve at tasks with experience.
+Can you explain supervised learning?,Supervised Learning is a type of Machine Learning where the model is trained on labeled data.
+What is unsupervised learning?,Unsupervised Learning involves training a model on data without labeled responses allowing it to find patterns and structures.
+What are neural networks?,Neural Networks are computational models inspired by the human brain used in Deep Learning for tasks like image recognition and natural language processing.
+What is overfitting?,Overfitting occurs when a model learns the training data too well capturing noise instead of the underlying pattern which can lead to poor performance on new data.
+What is a confusion matrix?,A confusion matrix is a performance measurement tool for classification models that summarizes the correct and incorrect predictions.
+How do I evaluate a machine learning model?,You can evaluate a model using metrics like accuracy precision recall and F1-score.
+What are some common algorithms in machine learning?,Common algorithms include Linear Regression Decision Trees Support Vector Machines and Neural Networks.
+What is feature engineering?,Feature Engineering is the process of using domain knowledge to select modify or create features that make machine learning models more effective.
+How can I improve my model's performance?,You can improve performance by tuning hyperparameters-using more data applying feature engineering or trying different algorithms.
+I don't know,No problem can u provide me more information to answer your query?
+sorry its a wrong answer,Sorry!! I'll try to modify the answer
+What is Random forest?,Random forest is an ensemble learning method that constructs multiple decision trees during training.
+What are decision trees?,D.T are non - parametric supervised learning method used for classification
+What is Support Vector Machine?,It is a supervised learning algorithm that finds the hyperplane that best separated different classes in different space.
+What is K-Nearest Neighbour(KNN)?,"It is a simple, non- parametric algorithm used for classification and regression."
+Naive Bayes is a family of probabilistic algorithms based on Bayes' theorem.,Naive Bayes is a family of probabilistic algorithms based on Bayes' theorem
+what is PCA?,PCA is a dimensionality reduction technique used to transform a high-dimensional dataset into a lower-dimensional space while preserving as much variance as possible.
+What is long short-term memory?,LSTMs are a type of RNN that can learn long-term dependencies by using special units called memory cells to store information over time.
+What is multi-layer perceptron?,MLP is a class of feedforward artificial neural network composed of multiple layers of nodes.
+advantages of ML?,Machine learning can analyze large datasets quickly and accurately
+automation in ML?,"ML algorithms can automate repetitive tasks, increasing efficiency and freeing up human resources for more complex tasks."
+deployment in ML?,"Training models requires a significant amount of data, and poor-quality data can lead to inaccurate results."
+ethical errors in ML?,"There are ethical concerns related to bias in algorithms, which can lead to unfair treatment of certain groups."
+How is machine learning utilized in autonomous vehicles?,"In autonomous vehicles, ML algorithms aid in perception, decision-making, and navigation to ensure safe driving."
+why should i learn ML?,It is one of the emerging technology in recent years..
+What is the purpose of regularization?,Regularization is a technique used to prevent overfitting by adding a penalty to the loss function for large coefficients in the model.
+yuppp,That sounds great right!!
+hooo,Yea.. what is your thought?
+which algorithm is used in these project,predictive learning is used in this project...
+what the hell?,sorryy!!!
+questions,answer
+What is Machine Learning?,Machine Learning is a field of artificial intelligence that uses statistical techniques to enable computers to improve at tasks with experience.
+Can you explain supervised learning?,Supervised Learning is a type of Machine Learning where the model is trained on labeled data.
+What is unsupervised learning?,Unsupervised Learning involves training a model on data without labeled responses
+What are neural networks?,Neural Networks are computational models inspired by the human brain
+What is overfitting?,Overfitting occurs when a model learns the training data too well
+What is a confusion matrix?,A confusion matrix is a performance measurement tool for classification models that summarizes the correct and incorrect predictions.
+How do I evaluate a machine learning model?,You can evaluate a model using metrics like accuracy
+What are some common algorithms in machine learning?,Common algorithms include Linear Regression
+What is feature engineering?,Feature Engineering is the process of using domain knowledge to select
+How can I improve my model's performance?,You can improve performance by tuning hyperparameters
+goo,ok...I'm going..bye😜😜😜
